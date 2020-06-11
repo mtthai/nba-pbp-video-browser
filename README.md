@@ -2,7 +2,13 @@
 
 Search through all 2019-20 NBA regular season games for specific play-by-play video provided by NBA.com. Filterable by player or play type. 
 
+<<<<<<< HEAD
 Creates a local Node proxy server at http://localhost:3001 to query data from stats.nba.com.
+=======
+![screen](https://github.com/mtthai/nba-pbp-video-browser/blob/master/screen.png)
+
+Creates a local Node proxy server to query data from stats.nba.com.
+>>>>>>> 94ac91740eaf6cbaf1a1a39b09f592f11e4c192a
 
 *Some games & plays are not available on video.
 
