@@ -10,9 +10,10 @@ Creates a local Node proxy server at http://localhost:3001 to query data from st
 
 1. Clone/Download
 2. Change to project root and run in terminal:
-3. Visit http://localhost:3000 to use
 ```
+npm install
 npm run dev
 ```
+3. Visit http://localhost:3000 to use
 
 Uses https://github.com/mtthai/nba-pbp-video
