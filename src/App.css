@@ -1,0 +1,55 @@
+#plays-wrapper {
+  display: flex;
+  flex-direction:column;
+}
+
+#plays-wrapper ul{
+  height: 90vh;
+  width: 400px;
+  overflow: scroll;
+  overflow-x: auto;
+}
+
+#select-wrapper{
+  margin-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 16px;
+}
+
+video {
+  margin-left: 30px;
+}
+
+#description{
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+#description span{
+  font-weight: bold;
+  float: right;
+}
+
+.App {
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+a:hover {
+  color: red;
+}
+
+a:focus {
+  color: red;
+}
+
+
+
