@@ -1,5 +1,7 @@
 # nba-play-viewer
 
+![NBA pbp browser](https://github.com/mtthai/nba-pbp-video-browser/blob/master/screen.png)
+
 Search through all 2019-20 NBA regular season games for specific play-by-play video provided by NBA.com. Filterable by player or play type. 
 
 Creates a local Node proxy server at http://localhost:3001 to query data from stats.nba.com.
